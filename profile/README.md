@@ -113,7 +113,7 @@ Michigan é desenvolvido de forma aberta. Esta organização guarda o servidor i
 
 <br />
 
-Construído sobre **RSG Framework** para RedM, com MariaDB, `ox_lib` e `ox_target`.
+Construído sobre **ALX Framework** para RedM, com MariaDB, `ox_lib` e `ox_target`.
 Cada sistema vive no seu próprio repositório, versionado por temporada.
 
 </div>
